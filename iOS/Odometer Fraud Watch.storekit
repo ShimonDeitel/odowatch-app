@@ -1,0 +1,27 @@
+{
+  "identifier" : "Odometer Fraud Watch",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.odowatch.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Discrepancy flagging based on expected mileage trend",
+          "displayName" : "Odometer Fraud Watch Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.odowatch.pro",
+      "referenceName" : "Odometer Fraud Watch Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
